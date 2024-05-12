@@ -1,0 +1,4 @@
+NOME: eduardo NOTA: 10
+NOME: matos NOTA: 9
+NOME: lima NOTA: 8
+NOME: melo NOTA: 7
